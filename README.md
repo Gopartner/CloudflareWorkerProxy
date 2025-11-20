@@ -1,7 +1,7 @@
 # Cloudflare Worker Proxy
 
 [中文](README_CN.md)
-INDONESIA (README-ID.md)
+[INDONESIA](README-ID.md)
 
 ## Example of Use
 
